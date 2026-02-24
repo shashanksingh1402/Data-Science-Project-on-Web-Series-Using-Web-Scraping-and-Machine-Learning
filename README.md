@@ -15,4 +15,4 @@ libraries like Streamlit/Plotly Dash) presenting key insights, trends, and model
 Include at least two KPIs, trend charts, AI and custom visuals and important reporting 
 features like RLS, sync slicer, bookmark, drill through, etc. 
 6. Final Report / Presentation– Summarizing methodology, insights, model 
-results, and recommendations. 
+results, and recommendations.
